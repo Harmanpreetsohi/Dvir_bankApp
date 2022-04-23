@@ -1,0 +1,27 @@
+.multi_select { width: 250px;}
+
+.filter_wrapper{background: #fff;padding: 10px;border-radius: 10px;margin-bottom: 20px;}
+.MuiPaper-elevation8.MuiPaper-rounded {    top: 207px !important;}
+.form_filter {display: flex;}
+.slide_filter {width: 190px;background: #fff;border: 1px solid #c4c4c4;padding: 0px 20px;margin: 0px 5px;border-radius: 4px;position: relative;}
+.form_filter .MuiSlider-root {color: #00b8fe;}
+.form-control {
+    width: 250px;
+    margin-left: 5px;
+}
+.submit_button button {
+    background: #00b8fe;
+    color: #fff;
+}
+.submit_button {
+    width: 97%;
+    text-align: right;
+    padding: 10px;
+
+}
+.slide_filter .MuiTypography-gutterBottom {
+    position: absolute;
+    top: -8px;
+    background: #FFF;
+    font-size: 12px;
+}
